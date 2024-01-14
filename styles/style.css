@@ -267,6 +267,9 @@ footer {
   .experince-img-section{
     width: 100%;
   }
+  html, body{
+    overflow-x: hidden;
+  }
   .features-container {
     flex-direction: column-reverse;
   }
